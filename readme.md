@@ -5,7 +5,7 @@ Some awsume mobile application samples
 * 
 # International application
 
-![international_application](assets/res1)
+![international_application](/assets/res1)
 
 # Feature driven design and Test-Driven-Development
 
