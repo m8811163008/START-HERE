@@ -21,6 +21,6 @@ Some awsume mobile application samples
 
 # Stocks simulator with observer design pattern
 
-![observer_design_pattern](assets/res5.jpg)
+![observer_design_pattern](assets/res5.png)
 
 Call +98921805230, your idea turns into mobile applications on any platform you choose.
