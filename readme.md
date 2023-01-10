@@ -1,7 +1,11 @@
-Some awsume mobile application samples
+# About
+You'll see some awsume mobile application samples.
+
 * All apps run on native code with fast performance
 * Supports responsive layout
 * Supports web, android, ios *platform* features aka *adaptive-design* 
+
+* I used these paradigms in development of this projects : design patterns , socket io, restful api, Test driven design, Dependency Injection, BLoC, GetX, Animation, Clean code, code documnetion, dart and flutter best practices and more.
 
 # International application
 This is Body Math Index calculator based on ui which I found on dribbble. It supports multiple languages and the ui widgets are customised to meet cutomer ui needs.
