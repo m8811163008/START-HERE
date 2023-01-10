@@ -5,7 +5,9 @@ Some awsume mobile application samples
 
 # International application
 This is Body Math Index calculator based on ui which I found on dribbble. It supports multiple languages and the ui widgets are customised to meet cutomer ui needs.
-[https://github.com/m8811163008/BMI-Calculator-with-pretty-ui](BMI calculator repository)
+
+[BMI calculator repository](https://github.com/m8811163008/BMI-Calculator-with-pretty-ui)
+
 ![international_application](assets/res1.jpg)
 
 # Feature driven design and Test-Driven-Development
