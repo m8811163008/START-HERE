@@ -47,10 +47,15 @@ Why did I use this pattern? The motivation for this design pattern comes from th
 
 ![observer_design_pattern](assets/res5.png)
 
-# other proects
+# other projects
 I tried to showcase some of not comercial projects which demonstrate my skills and knowledge and I did not show company projects which I worked with.
+
 [Animate the properties of a container](https://github.com/m8811163008/Animate-the-properties-of-a-container)
+
 [chain of responsibility design pattern](https://github.com/m8811163008/chain_of_responsibility_design_pattern)
+
 [radix_sort](https://github.com/m8811163008/radix_sort)
-[Stocks simulator project](https://github.com/m8811163008/observer_design_pattern)
+
+[memento design](https://github.com/m8811163008/memento_design_pattern)
+
 [other projects](https://github.com/m8811163008?page=1&tab=repositories)
