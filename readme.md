@@ -18,7 +18,7 @@ This is Body Math Index calculator based on ui which I found on dribbble. It sup
 At this project I used a design technique for programmers based on unit test first.I created unit test cases before developing the actual code.
 And with Feature driven design which is an Agile methodology for developing software, Feature-Driven Development (FDD) is customer-centric, iterative, and incremental, with the goal of delivering tangible software results often and efficiently I managed to happify customer after delivering this project.
 
-[Feature_driven_design_application](https://github.com/m8811163008/note_application)
+[Feature driven design application](https://github.com/m8811163008/note_application)
 
 ![Feature_driven_design_application](assets/res2.jpg)
 
@@ -39,7 +39,7 @@ At this project I used sharing to support large numbers of fine-grained objects 
 * Client — computes or stores the extrinsic state of flyweight(s) and maintains a reference to it/them.
 At this project I used the Flyweight design pattern because it should be used only when the program must support a huge number of objects which barely fit into available RAM.
 
-[flyweight design pattern](https://github.com/m8811163008/flyweight_design_pattern)
+[Flyweight design pattern](https://github.com/m8811163008/flyweight_design_pattern)
 
 ![Fly_weight_design_pattern](assets/res4.jpg)
 
@@ -54,7 +54,7 @@ Why did I use this pattern? The motivation for this design pattern comes from th
 # other projects
 I tried to showcase some of not comercial projects which demonstrate my skills and knowledge and I did not show company projects which I worked with.
 
-[Animate the properties of a container](https://github.com/m8811163008/Animate-the-properties-of-a-container)
+[animate the properties of a container](https://github.com/m8811163008/Animate-the-properties-of-a-container)
 
 [chain of responsibility design pattern](https://github.com/m8811163008/chain_of_responsibility_design_pattern)
 
@@ -62,4 +62,4 @@ I tried to showcase some of not comercial projects which demonstrate my skills a
 
 [memento design](https://github.com/m8811163008/memento_design_pattern)
 
-[other projects](https://github.com/m8811163008?page=1&tab=repositories)
+[Other projects](https://github.com/m8811163008?page=1&tab=repositories)
